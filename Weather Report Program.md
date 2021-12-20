@@ -19,7 +19,8 @@ Weather Report Program
 
 # 개요 
 
-**크롤링**(crawling) : 웹사이트(website), [하이퍼링크](https://terms.naver.com/entry.naver?docId=861505&ref=y)(hyperlink), 데이터(data), 정보 자원을 [자동화](https://terms.naver.com/entry.naver?docId=815815&ref=y)된 방법으로 수집, 분류, 저장하는 것.                                                                                                                   출처 -  [네이버 지식백과](https://terms.naver.com/entry.naver?docId=6470952&cid=42346&categoryId=42346)
+**크롤링**(crawling) : 웹사이트(website), [하이퍼링크](https://terms.naver.com/entry.naver?docId=861505&ref=y)(hyperlink), 데이터(data), 정보 자원을 [자동화](https://terms.naver.com/entry.naver?docId=815815&ref=y)된 방법으로 수집, 분류, 저장하는 것.                                                                                                                   
+                        출처 -  [네이버 지식백과](https://terms.naver.com/entry.naver?docId=6470952&cid=42346&categoryId=42346)
 
  웹  사이트는 기본적으로 HTML 이라는 형식으로 쓰여진 문서이다. 우리는 HTML 문서에 담긴 내용을 가져 오도록 request(요청)해야 한다.  크롤링을 이용해 웹 사이트의 HTML 코드  정보를 저장 할 수 있다.  이 과정에서 BeautifulSoup 라는 라이브러리를 사용한다.
 
