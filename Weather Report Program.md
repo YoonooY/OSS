@@ -29,7 +29,7 @@ Weather Report Program
 
 #### 웹크롤링을 하기 위한 모듈 import 하기.
 
-<img src="C:\Users\jaeyo\Desktop\새 폴더\1.PNG" alt="1"  /> 
+![1](https://user-images.githubusercontent.com/89253647/146769044-048c4b2b-6ed3-4900-8faa-be21a5520d40.PNG)
 
  다른 환경에서는 라이브러리를 다운받아야 하므로 [Colaboratory(Colab)](https://colab.research.google.com/?utm_source=scs-index) 사용을 권장한다.
 
