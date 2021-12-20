@@ -35,7 +35,7 @@ Weather Report Program
 
 #### 현재 시간을 불러오기 위한 변수 now 정의
 
-![2](C:\Users\jaeyo\Desktop\새 폴더\2.PNG) 
+![2](https://user-images.githubusercontent.com/89253647/146769094-a457c981-4a55-410f-80c1-0036f5ee4cc5.PNG)
 
 ​    import 를 했다면 현재 시간을 나타내는 now를 정의한다.
 
@@ -43,7 +43,7 @@ Weather Report Program
 
 #### <code>today_weather</code> 함수 정의하기
 
-![3](C:\Users\jaeyo\Desktop\새 폴더\3.PNG)
+![3](https://user-images.githubusercontent.com/89253647/146769112-3df2c81c-e23f-48a9-9ac9-5d1fdd4a4988.PNG)
 
 
 
@@ -51,8 +51,8 @@ Weather Report Program
 - <code>soup = BeautifulSoup(html.text, 'html.parser')</code> 받아온 html을 텍스트 형태로 변환하고, <code>html.parser</code> 을 통해 <code>beautifulsoup</code> 가 처리할 수 있는 데이터로 변환해 준다.
 
 
+![6](https://user-images.githubusercontent.com/89253647/146769166-55668adf-58a6-4f57-95f8-4d151f9aaafe.PNG)
 
-![6](C:\Users\jaeyo\Desktop\새 폴더\6.png)
 
 - 네이버 날씨 웹 페이지에서 **F12** 키를 누르면 개발자 도구를 볼 수 있다. 여기서 개발자  도구 좌측 상단의 **Select an element in the page to inspect it** 버튼을 누르면 현재 페이지의 코드들을 확인할 수 있다.
 
@@ -78,7 +78,7 @@ Weather Report Program
 
 #### 프로그램의 종료 여부를 묻는 <code>ask_keep_going</code> 함수 정의
 
-![4](C:\Users\jaeyo\Desktop\새 폴더\4.PNG) 
+![4](https://user-images.githubusercontent.com/89253647/146769206-89ec92f5-94e2-4ed5-afcb-9f25596dd8e2.PNG)
 
   
 
@@ -88,7 +88,8 @@ Weather Report Program
 
 #### 날씨 출력하기
 
-![5](C:\Users\jaeyo\Desktop\새 폴더\5.PNG) 
+![5](https://user-images.githubusercontent.com/89253647/146769216-effe8ec7-d488-494c-9ff3-d18c58221bb4.PNG)
+
 
 - `while` 루프를 사용하여 프로그램 종료전까지 무한반복한다.
 
@@ -96,6 +97,6 @@ Weather Report Program
 
 # 결과
 
-#### ![7](C:\Users\jaeyo\Desktop\새 폴더\7.PNG)
+![7](https://user-images.githubusercontent.com/89253647/146769247-29e84688-16c3-4651-824a-32b039587f57.PNG)
 
 - 프로그램 실행 시 다음과 결과를 얻을 수 있다.
