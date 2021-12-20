@@ -115,7 +115,7 @@ Weather Report Program
  
  5.[천동이](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=chandong83&logNo=221305144464)
  
- 6.[jroomstudio]https://jroomstudio.tistory.com/32
+ 6.[jroomstudio](https://jroomstudio.tistory.com/32)
  
  7.[밸즈늬](https://digiconfactory.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%AC%EB%A1%A4%EB%A7%81-%EA%B8%B0%EC%83%81%EC%B2%AD-%ED%98%84%EC%9E%AC-%EB%82%A0%EC%94%A8-%EC%A0%95%EB%B3%B4-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
  
